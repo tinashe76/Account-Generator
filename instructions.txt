@@ -1,0 +1,20 @@
+Program prints:
+
+Phone Number, Password, Username, Actual Name ; respectively.
+
+Open main.py using a text editor to customize the program:
+
+NOTE: Read Comments.
+
+
+-------------------------USAGE-------------------------------------------------------
+
+Requirements: Make sure you have python installed to PATH for run.bat to work
+---------------------------------------------------------------------------------
+
+
+click on run.bat to launch the program
+
+'First Three Numbers' refers to the first three digits of your phone numbers
+
+Type 'stop' on the 'First Three Numbers' prompt to end the program.
