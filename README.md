@@ -1,2 +1,2 @@
 # Account-Generator
-For when you want to (anonymously) sign up on Po...I mean Netflix.
+For when you want to sign-up on shaddy websites
